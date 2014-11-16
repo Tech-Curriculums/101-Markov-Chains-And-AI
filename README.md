@@ -36,4 +36,7 @@ In this activity, we level up our AI by allowing it to adjust it's initial guess
 ## Long-term Markov Matrices -- planning ahead
 
 
+#### References and further reading:
+
+* http://artint.info/html/ArtInt.html
 
